@@ -1,2 +1,8 @@
 .idea
 python/test.py
+cpp/cmake-build-debug/
+cpp/CMakeLists.txt
+cpp/main.cpp
+cpp/a.out
+c/cmake-build-debug/
+c/CMakeLists.txt
